@@ -1,8 +1,9 @@
 # Human Resources Analysis
 
-This repo contains a jupyter notebook with a data analysis for the ficticious company in order to predict which employees are more likely to quit.
+This repo contains an analysis with a dataset from IBM: IBM HR Analytics Employee Attrition & Performance.
 
+The goal is to identify the employees that might quit before it is too late. 
 
-The dataset can be found here:
+The dataset is originally from:
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
